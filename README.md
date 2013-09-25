@@ -6,13 +6,13 @@ Usage
 1. Download the source files.
 2. Include ``<script src="path/to/js/jquery.scrollInArea.min.js"></script>`` in the body of your page
 3. Add to your stylesheet the following rule:
-```css
+```
 .fixed-wrapp {
 	position: relative;
 }
 ```
 4. Add the following code to your script:
-```javascript
+```
 $('#fix-scroll-1').scrollInArea({
 	wrapper: '#fix-scroll-wrapper'
 });
