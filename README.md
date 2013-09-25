@@ -1,0 +1,4 @@
+scrollInArea
+============
+
+jQuery scrollInArea plugin
